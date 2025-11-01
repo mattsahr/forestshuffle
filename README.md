@@ -1,6 +1,10 @@
-# sv
+# Forest Shuffle -- Score card
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+https://forestshuffle.awsum.ninja
+
+This is a tiny one-page svelte app, to keep score of the Forest Shuffle board game.
+
+Powered by Svelte [`sv`](https://github.com/sveltejs/cli).
 
 ## Creating a project
 
